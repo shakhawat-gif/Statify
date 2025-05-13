@@ -1,2 +1,3 @@
 # Statify
-My first professional data analytics project using Python (or R)
+My first professional data analytics project using Python
+
